@@ -1,0 +1,100 @@
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid hotpink;
+    font-size: 100px;
+    margin: 10px;
+    background-color: blanchedalmond;
+    
+}
+nav{
+    background-color:hotpink;
+    word-spacing: 100px;
+    
+}
+ 
+h2{
+    
+    color: blueviolet;
+    font-size: 50px;
+}
+.firstp{
+    width:1300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: aliceblue;
+    
+}
+.one a:hover{
+    background-color: aquamarine;
+    color:purple;
+}
+#iem{
+    float:right;
+    border:10px solid darkcyan;
+    height: 200px;
+    margin: 50px;
+    margin-top:0%;
+}
+.IMG{
+    width:20%;
+    height:300px;
+    border:5px solid darkslateblue;
+    margin:50px;
+    
+}
+.TITLE{
+    text-align: center;
+    color:rgb(31, 176, 171);
+    border:10px double hotpink;
+    
+}
+.secondp{
+    text-align: right;
+    font-size: 30px;
+    width:1000px;
+    margin-left: 800px;
+    color: aliceblue;
+}
+.IMG:hover{
+    transform:scale(1.1);
+    transition-duration: 0.3s;
+    transition-property: transform; 
+    
+}
+.FORM{
+    border: 20px solid hotpink;
+    padding: 20px;
+    margin:20px auto;
+    max-width: 600px;
+    background-color: antiquewhite;
+
+}
+.thirdp{
+    text-align: left;       /* align label & input to left */
+    margin-bottom: 20px;    /* space between fields */
+    font-size: 20px;
+    color:black;
+}
+.BUTTON{
+    margin: 0 auto;
+    display: block;
+    background-color: hotpink;
+}
+.BUTTON:hover{
+    background-color: deeppink;
+    color:aquamarine
+}
+.logo{
+    height:20px;
+    margin-right: auto;
+}
+footer{
+    background-color: hotpink;
+    word-spacing:20px;
+    height: 40px;
+    padding: 2px;
+}
+body{
+    background-color:black;
+}
